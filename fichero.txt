@@ -1,3 +1,8 @@
-Una linea con texto
- otra linea de texto
-Esto es otra Cadena
+Nombre: jorge
+Boletos: 1
+Total: $12.00
+--------------
+Nombre: luis
+Boletos: 14
+Total: $128.52
+--------------

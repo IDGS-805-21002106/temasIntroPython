@@ -1,0 +1,5 @@
+DETALLES DE LA COMPRA:
+Nombre: jorge
+Boletos: 1
+Total: $12.00
+--------------
